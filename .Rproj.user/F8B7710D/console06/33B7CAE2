@@ -1,0 +1,20 @@
+[0m[0K]0;:/c/Users/Denzel/Documents/R/Iris[?25l
+[0;32mDenzel@Denzel-PC [0;35m [0;33m~/Documents/R/Iris[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git f[0K[?25he[0Kt[0Kc[0Kh[0K[?25l
+[0K[?25h[?25l
+[0;32mDenzel@Denzel-PC [0;35m [0;33m~/Documents/R/Iris[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[?25l
+[0K[?25hTo https://github.com/DSeals12/Iris-.git[0K[?25l
+ ! [rejected]        master -> master (non-fast-forward)[0K
+error: failed to push some refs to 'https://github.com/DSeals12/Iris-.git'[0K
+[0K[?25hhint: Updates were rejected because the tip of your current branch is behind[0K[?25l
+hint: its remote counterpart. Integrate the remote changes (e.g.[0K
+hint: 'git pull ...') before pushing again.[0K
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.[0K
+[0K[?25h[?25l
+[0;32mDenzel@Denzel-PC [0;35m [0;33m~/Documents/R/Iris[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Ks[0Ke[0Kt[0K[13G[?25l$ git reset -[0K[?25h-[0Ko[0Kr[0Ki[0Kg[0Ki[0Kn[0Kh[0Ka[0Kr[0K[?25l$ git reset --originha[0K[?25h[?25l$ git reset --originh[0K[?25h[?25l$ git reset --origin[0K[?25h[?25l$ git reset --origi[0K[?25h[?25l$ git reset --orig[0K[?25h[?25l$ git reset --ori[0K[?25h[?25l$ git reset --or[0K[?25h[?25l$ git reset --o[0K[?25h[?25l$ git reset --[0K[?25hh[0Ka[0Kr[0Kd[0K[20G[?25l$ git reset --hard o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K/[0Km[0Ka[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hHEAD is now at 42847e8 Initial commit[0K[?25l
+[0K[?25h[?25l
+[0;32mDenzel@Denzel-PC [0;35m [0;33m~/Documents/R/Iris[0;36m (master)[0m[0K
+$[0K[3G[?25h

@@ -1,0 +1,9 @@
+{
+    "path" : "~/R/Iris",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

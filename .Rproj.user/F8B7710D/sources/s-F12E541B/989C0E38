@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536119588846.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4221842240",
+    "id" : "989C0E38",
+    "lastKnownWriteTime" : 1536119668,
+    "last_content_update" : 1536119668557,
+    "path" : "~/R/Iris/LoadingIris.R",
+    "project_path" : "LoadingIris.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
